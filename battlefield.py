@@ -62,10 +62,10 @@ class Battlefield:
     welcome_greeting()
     pass
     start_of_battle(good_robot, good_dino,herd, fleet)
-
     pass
+    
 
-    print('congradulations for ocatne he is the ultimate fighting champion')   
+      
 
 
       

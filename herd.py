@@ -24,4 +24,6 @@ class Herd:
                 return d
                 break
         print('no more dinos alive')
+        print('congrats for ocatane he is the ultimate fighting champion') 
         return False
+    
