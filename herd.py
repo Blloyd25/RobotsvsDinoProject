@@ -2,9 +2,7 @@
 from dinosaur import Dinosaur
 
 class Herd:
-    
-        
-        
+                   
     def create_herd(self):  
         self.dino=[]
         dino_one = Dinosaur("T-Rex", 30)

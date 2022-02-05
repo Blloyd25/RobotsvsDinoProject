@@ -1,11 +1,6 @@
 from robots import Robots
 
-
-
-
-class Fleet:
-    
-        
+class Fleet:       
 
     def create_fleet(self):
         self.fleet_list= []

@@ -7,7 +7,6 @@ from herd import Herd
 from robots import Robots
 
 
-
 class Battlefield:
     fleet = Fleet()
     herd = Herd()
@@ -55,7 +54,7 @@ class Battlefield:
                 print("your robot died ")
                 good_robot = Fleet.find_good_robot(fleet)
                 
-            if not Condition:
+            if not Condition: 
                 break
            
 
