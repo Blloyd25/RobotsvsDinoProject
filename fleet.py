@@ -22,7 +22,7 @@ class Fleet:
     def find_good_robot (fleet):
         for f in fleet:
             if f.robot_health >= 1:
-                print(f.name + " is your next fighter" )
+                
                 return f
                 break
         print('no more robots alive')

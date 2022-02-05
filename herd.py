@@ -20,7 +20,7 @@ class Herd:
     def find_good_dino(herd):
         for d in herd:
             if d.dino_health >= 1:
-                print(d.name + " is your next fighter" )
+               
                 return d
                 break
         print('no more dinos alive')

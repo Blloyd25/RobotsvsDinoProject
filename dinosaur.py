@@ -20,10 +20,6 @@ class Dinosaur:
 
 
 
-# test_robot= Robots('bob')
-# test_dino = Dinosaur('george', 20)
-# test_dino.attack(test_robot)       
-       
        
        
         

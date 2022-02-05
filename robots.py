@@ -18,9 +18,6 @@ class Robots:
         print(f'{dinosaur.name} was hit for {self.weapon.attack_power} damage!   {dinosaur.dino_health} health remaining')
 
 
-# test_robot= Robots('bob')
-# test_dino = Dinosaur('chappie', 30)
-# test_robot.robot_attack_move(test_dino)  
 
     
 
