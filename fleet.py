@@ -10,8 +10,8 @@ class Fleet:
     def create_fleet(self):
         self.fleet_list= []
         robot_one = Robots('R2-D2') 
-        robot_two = Robots('chappie' )
-        robot_three = Robots('octane')
+        robot_two = Robots('Chappie' )
+        robot_three = Robots('Octane')
         
         self.fleet_list.append(robot_one) 
         self.fleet_list.append(robot_two)
@@ -25,5 +25,5 @@ class Fleet:
                 
                 return f
                 break
-        print('no more robots alive')
+        print('No More Robots Alive')
         return False

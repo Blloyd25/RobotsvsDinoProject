@@ -9,7 +9,7 @@ class Robots:
     def __init__ (self,robo_name):
         self.name = robo_name
         self.robot_health = 100
-        self.weapon = Weapon("knife")
+        self.weapon = Weapon("Knife")
        
 
 

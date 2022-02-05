@@ -8,8 +8,8 @@ class Herd:
     def create_herd(self):  
         self.dino=[]
         dino_one = Dinosaur("T-Rex", 30)
-        dino_two  = Dinosaur("barney", 30)
-        dino_three = Dinosaur("george", 30)
+        dino_two  = Dinosaur("Barney", 30)
+        dino_three = Dinosaur("George", 30)
 
 
         self.dino.append(dino_one)
@@ -23,7 +23,7 @@ class Herd:
                
                 return d
                 break
-        print('no more dinos alive')
-        print('congrats for ocatane he is the ultimate fighting champion') 
+        print('No More Dinos Alive')
+        print('Congrats for Octane he is the Ultimate Fighting Champion') 
         return False
     
